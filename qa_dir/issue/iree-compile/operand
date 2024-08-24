@@ -1,0 +1,10 @@
+onnx/models/resnet50_gn_test_vaiq 
+onnx/models/resnet50_gn_vaiq 
+onnx/models/resnetv2_101x1_bit.goog_in21k_ft_in1k_vaiq 
+onnx/models/resnetv2_152x2_bit.goog_in21k_ft_in1k_vaiq 
+onnx/models/resnetv2_152x2_bit.goog_teacher_in21k_ft_in1k_384_vaiq 
+onnx/models/resnetv2_152x2_bit.goog_teacher_in21k_ft_in1k_vaiq 
+onnx/models/resnetv2_50d_gn.ah_in1k_train_vaiq 
+onnx/models/resnetv2_50d_gn.ah_in1k_vaiq 
+onnx/models/resnetv2_50x1_bit.goog_distilled_in1k_vaiq 
+onnx/models/resnetv2_50x3_bit.goog_in21k_ft_in1k_vaiq 

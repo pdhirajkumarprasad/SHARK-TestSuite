@@ -1,0 +1,6 @@
+onnx/models/bat_resnext26ts.ch_in1k 
+onnx/models/levit_conv_128.fb_dist_in1k 
+onnx/models/levit_conv_128s.fb_dist_in1k 
+onnx/models/levit_conv_192.fb_dist_in1k 
+onnx/models/levit_conv_256.fb_dist_in1k 
+onnx/models/levit_conv_384.fb_dist_in1k 

@@ -1,0 +1,4 @@
+onnx/models/efficientnet_b5.sw_in12k_vaiq 
+onnx/models/regnety_160.swag_ft_in1k_vaiq 
+onnx/models/regnetz_d32.ra3_in1k_vaiq 
+onnx/models/regnetz_e8.ra3_in1k_vaiq 

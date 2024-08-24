@@ -1,0 +1,11 @@
+onnx/models/convnext_small.fb_in1k 
+onnx/models/convnext_small.fb_in22k_ft_in1k 
+onnx/models/convnext_small.in12k_ft_in1k 
+onnx/models/convnext_tiny.fb_in1k 
+onnx/models/convnext_tiny.fb_in22k_ft_in1k 
+onnx/models/convnext_tiny.in12k_ft_in1k 
+onnx/models/convnextv2_tiny.fcmae_ft_in1k 
+onnx/models/convnextv2_tiny.fcmae_ft_in22k_in1k 
+onnx/models/efficientnet_b5.in12k 
+onnx/models/efficientnet_b5.in12k_ft_in1k 
+onnx/models/rexnetr_200.sw_in12k 

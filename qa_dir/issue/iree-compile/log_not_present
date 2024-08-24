@@ -1,0 +1,7 @@
+onnx/models/ConvNeXt_vaiq_int8 
+onnx/models/DeepLabV3_resnet50_vaiq_int8 
+onnx/models/KeypointRCNN_vaiq_int8 
+onnx/models/LRASPP_vaiq_int8 
+onnx/models/RAFT_vaiq_int8 
+onnx/models/U-2-Net_vaiq_int8 
+onnx/models/retinanet_resnet50_fpn_vaiq_int8 

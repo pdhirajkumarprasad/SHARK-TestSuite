@@ -1,0 +1,5 @@
+onnx/models/poolformer_m36 
+onnx/models/poolformer_m48 
+onnx/models/poolformer_s12 
+onnx/models/poolformer_s24 
+onnx/models/poolformer_s36 
