@@ -1,5 +1,3 @@
-onnx/models/poolformer_m36 
-onnx/models/poolformer_m48 
-onnx/models/poolformer_s12 
-onnx/models/poolformer_s24 
-onnx/models/poolformer_s36 
+onnx/models/sequencer2d_l 
+onnx/models/sequencer2d_m_vaiq 
+onnx/models/sequencer2d_s_vaiq 
