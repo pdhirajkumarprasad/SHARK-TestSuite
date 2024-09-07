@@ -1,0 +1,16 @@
+onnx/models/cait_m36_384 
+onnx/models/cait_m48_448 
+onnx/models/cait_s24_224 
+onnx/models/cait_s24_384 
+onnx/models/cait_s36_384 
+onnx/models/cait_xs24_384 
+onnx/models/cait_xxs24_224 
+onnx/models/cait_xxs24_384 
+onnx/models/cait_xxs36_224 
+onnx/models/cait_xxs36_384 
+onnx/models/coat_lite_mini 
+onnx/models/coat_lite_small 
+onnx/models/coat_lite_tiny 
+onnx/models/convit_base 
+onnx/models/convit_small 
+onnx/models/convit_tiny 
