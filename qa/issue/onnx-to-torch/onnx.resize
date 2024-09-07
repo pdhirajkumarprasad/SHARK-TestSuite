@@ -1,0 +1,11 @@
+onnx/models/crossvit_15_240 
+onnx/models/crossvit_15_dagger_240 
+onnx/models/crossvit_15_dagger_408 
+onnx/models/crossvit_18_240 
+onnx/models/crossvit_18_dagger_240 
+onnx/models/crossvit_18_dagger_408 
+onnx/models/crossvit_9_240 
+onnx/models/crossvit_9_dagger_240 
+onnx/models/crossvit_base_240 
+onnx/models/crossvit_small_240 
+onnx/models/crossvit_tiny_240 
