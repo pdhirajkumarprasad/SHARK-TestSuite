@@ -1,6 +1,10 @@
-onnx/models/bat_resnext26ts.ch_in1k 
+onnx/models/efficientformer_l3.snap_dist_in1k 
+onnx/models/efficientformer_l7.snap_dist_in1k 
 onnx/models/levit_conv_128.fb_dist_in1k 
 onnx/models/levit_conv_128s.fb_dist_in1k 
 onnx/models/levit_conv_192.fb_dist_in1k 
 onnx/models/levit_conv_256.fb_dist_in1k 
 onnx/models/levit_conv_384.fb_dist_in1k 
+onnx/models/mvitv2_base 
+onnx/models/mvitv2_small 
+onnx/models/mvitv2_tiny 
