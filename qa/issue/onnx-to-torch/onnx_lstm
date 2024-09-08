@@ -1,3 +1,12 @@
 onnx/models/sequencer2d_l 
 onnx/models/sequencer2d_m_vaiq 
 onnx/models/sequencer2d_s_vaiq 
+
+##onnx-model-zoo
+Computer_Vision/sequencer2d_l_Opset16_timm/sequencer2d_l_Opset16_timm.onnx 
+Computer_Vision/sequencer2d_l_Opset17_timm/sequencer2d_l_Opset17_timm.onnx 
+Computer_Vision/sequencer2d_m_Opset16_timm/sequencer2d_m_Opset16_timm.onnx 
+Computer_Vision/sequencer2d_s_Opset17_timm/sequencer2d_s_Opset17_timm.onnx 
+Computer_Vision/skip/sequencer2d_m_Opset17_timm/sequencer2d_m_Opset17_timm.onnx 
+Computer_Vision/skip/sequencer2d_s_Opset16_timm/sequencer2d_s_Opset16_timm.onnx 
+validated/text/machine_comprehension/bidirectional_attention_flow/model/model.onnx 
