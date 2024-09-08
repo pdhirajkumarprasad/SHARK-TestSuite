@@ -1,0 +1,2 @@
+validated/vision/object_detection_segmentation/faster-rcnn/model/model.onnx
+validated/vision/object_detection_segmentation/mask-rcnn/model/model.onnx
