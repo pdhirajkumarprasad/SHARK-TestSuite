@@ -1,34 +1,17 @@
-swinv2_base_window12to16_192to256.ms_in22k_ft_in1k
-swinv2_base_window12to24_192to384.ms_in22k_ft_in1k
-swinv2_base_window16_256.ms_in1k
-swinv2_base_window8_256.ms_in1k
-swinv2_large_window12to16_192to256.ms_in22k_ft_in1k
-swinv2_large_window12to24_192to384.ms_in22k_ft_in1k
-swinv2_small_window16_256.ms_in1k
-swinv2_small_window8_256.ms_in1k
-swinv2_tiny_window16_256.ms_in1k
-swinv2_tiny_window8_256.ms_in1k
+'linalg.generic' op inferred input/output operand #1 has shape's dimension #3 to be 16
 
+botnet26t_256
+sebotnet33ts_256
+swinv2_cr_small_224.sw_in1k
+swinv2_cr_small_ns_224.sw_in1k
+swinv2_cr_tiny_ns_224.sw_in1k
 
+error: 'torch.prim.If' op  along control flow edge from Region #0 to parent results:
 
-##onnx-model-zoo low priority now
-Generative_AI/skip/biogpt_Opset16_transformers/biogpt_Opset16_transformers.onnx 
-Generative_AI/skip/biogpt_Opset17_transformers/biogpt_Opset17_transformers.onnx 
-Generative_AI/skip/biogpt_Opset18_transformers/biogpt_Opset18_transformers.onnx 
-Natural_Language_Processing/skip/blenderbot_Opset16_transformers/blenderbot_Opset16_transformers.onnx 
-Natural_Language_Processing/skip/blenderbot_Opset17_transformers/blenderbot_Opset17_transformers.onnx 
-Natural_Language_Processing/skip/blenderbot_Opset18_transformers/blenderbot_Opset18_transformers.onnx 
-Natural_Language_Processing/skip/blenderbotsmall_Opset16_transformers/blenderbotsmall_Opset16_transformers.onnx 
-Natural_Language_Processing/skip/blenderbotsmall_Opset17_transformers/blenderbotsmall_Opset17_transformers.onnx 
-Natural_Language_Processing/skip/blenderbotsmall_Opset18_transformers/blenderbotsmall_Opset18_transformers.onnx 
-Natural_Language_Processing/skip/canine_Opset16_transformers/canine_Opset16_transformers.onnx 
-Natural_Language_Processing/skip/canine_Opset17_transformers/canine_Opset17_transformers.onnx 
-Natural_Language_Processing/skip/m2m100_Opset16_transformers/m2m100_Opset16_transformers.onnx 
-Natural_Language_Processing/skip/m2m100_Opset17_transformers/m2m100_Opset17_transformers.onnx 
-Natural_Language_Processing/skip/m2m100_Opset18_transformers/m2m100_Opset18_transformers.onnx 
-Natural_Language_Processing/skip/marian_Opset16_transformers/marian_Opset16_transformers.onnx 
-Natural_Language_Processing/skip/marian_Opset17_transformers/marian_Opset17_transformers.onnx 
-Natural_Language_Processing/skip/marian_Opset18_transformers/marian_Opset18_transformers.onnx 
-Natural_Language_Processing/skip/opt_Opset16_transformers/opt_Opset16_transformers.onnx 
-Natural_Language_Processing/skip/opt_Opset17_transformers/opt_Opset17_transformers.onnx 
-Natural_Language_Processing/skip/opt_Opset18_transformers/opt_Opset18_transformers.onnx
+coat_mini
+coat_tiny
+model--splinter-large-few-shot-k-16-finetuned-squad-seed-0--anas-awadalla
+model--splinter-large-few-shot-k-16-finetuned-squad-seed-2--anas-awadalla
+model--splinter-large-few-shot-k-16-finetuned-squad-seed-4--anas-awadalla
+model--splinter-large-few-shot-k-32-finetuned-squad-seed-2--anas-awadalla
+
