@@ -4,7 +4,6 @@ coat_lite_tiny
 davit_base.msft_in1k
 davit_small.msft_in1k
 davit_tiny.msft_in1k
-eca_botnext26ts_256
 efficientnet_b1_pruned.in1k
 efficientnet_b2_pruned.in1k
 efficientnet_b3_pruned.in1k
@@ -52,6 +51,9 @@ tf_mobilenetv3_large_075.in1k
 tf_mobilenetv3_large_100.in1k
 twins_svt_base
 twins_svt_large
+twins_svt_small
+vit_relpos_base_patch16_clsgap_224.sw_in1k
+vit_relpos_medium_patch16_cls_224.sw_in1k
 twins_svt_small
 vit_relpos_base_patch16_clsgap_224.sw_in1k
 vit_relpos_medium_patch16_cls_224.sw_in1k
