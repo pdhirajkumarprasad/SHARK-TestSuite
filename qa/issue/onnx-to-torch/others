@@ -21,7 +21,12 @@ model--opt-125m-finetuned-squad-assignment--Isente
 migraphx_torchvision__densenet121i32
 
 #list3
-migraphx_ORT__bert_base_uncased_1
+efficientformerv2_l.snap_dist_in1k
+efficientformerv2_s2.snap_dist_in1k
+model--long-t5-tglobal-base-16384-book-summary--pszemraj
+model--long-t5-tglobal-base-16384-booksum-V11-big_patent-V2--pszemraj
+model--long-t5-tglobal-base-16384-booksum-V12--pszemraj
+
 
 #list4
 model--BART--Shubham09
