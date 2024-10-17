@@ -79,3 +79,8 @@ maxvit_tiny_tf_384.in1k
 maxvit_tiny_tf_512.in1k
 maxvit_xlarge_tf_384.in21k_ft_in1k
 maxvit_xlarge_tf_512.in21k_ft_in1k
+
+##list8
+jx_nest_base
+jx_nest_small
+jx_nest_tiny
