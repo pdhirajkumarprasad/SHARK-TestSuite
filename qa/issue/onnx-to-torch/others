@@ -140,3 +140,16 @@ tf_mixnet_m.in1k
 tf_mixnet_s.in1k
 tf_mobilenetv3_large_075.in1k
 tf_mobilenetv3_large_100.in1k
+
+
+#list14
+ghrnet_w18_vaiq
+ghrnet_w18_small_vaiq
+ghrnet_w18_small_v2_vaiq
+ghrnet_w30_vaiq
+ghrnet_w32_vaiq
+ghrnet_w40_vaiq
+ghrnet_w44_vaiq
+ghrnet_w48_vaiq
+ghrnet_w64_vaiq
+
