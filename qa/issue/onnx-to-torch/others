@@ -326,3 +326,7 @@ coat_lite_small
 coat_lite_tiny
 nasnetalarge
 pnasnet5large
+
+#list exceed
+model--s2t-medium-librispeech-asr--facebook
+migraphx_models__whisper-tiny-encoder
