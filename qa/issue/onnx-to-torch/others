@@ -293,3 +293,15 @@ model--tiny-random-GPTNeoForSequenceClassification--hf-tiny-model-private
 model--tiny-testing-falcon-alibi--fxmarty
 model--unisumm_3--vishw2703
 
+#list resize
+crossvit_15_240
+crossvit_15_dagger_240
+crossvit_15_dagger_408
+crossvit_18_240
+crossvit_18_dagger_240
+crossvit_18_dagger_408
+crossvit_9_240
+crossvit_9_dagger_240
+crossvit_base_240
+crossvit_small_240
+crossvit_tiny_240
