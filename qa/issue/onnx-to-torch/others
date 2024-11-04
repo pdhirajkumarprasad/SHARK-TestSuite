@@ -314,3 +314,8 @@ twins_svt_base
 twins_svt_large
 twins_svt_small
 
+#list index
+model--long-t5-tglobal-base-16384-book-summary--pszemraj
+model--long-t5-tglobal-base-16384-booksum-V11-big_patent-V2--pszemraj
+model--long-t5-tglobal-base-16384-booksum-V12--pszemraj
+migraphx_bert__bertsquad-12
