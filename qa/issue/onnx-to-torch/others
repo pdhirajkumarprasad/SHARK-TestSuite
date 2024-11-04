@@ -305,3 +305,12 @@ crossvit_9_dagger_240
 crossvit_base_240
 crossvit_small_240
 crossvit_tiny_240
+
+#list aten.bool
+jx_nest_base
+jx_nest_small
+jx_nest_tiny
+twins_svt_base
+twins_svt_large
+twins_svt_small
+
