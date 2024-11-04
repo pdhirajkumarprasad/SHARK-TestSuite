@@ -330,3 +330,23 @@ pnasnet5large
 #list exceed
 model--s2t-medium-librispeech-asr--facebook
 migraphx_models__whisper-tiny-encoder
+
+#crash
+vit_relpos_base_patch16_clsgap_224.sw_in1k
+vit_relpos_medium_patch16_cls_224.sw_in1k
+
+#list tensor.dim
+migraphx_agentmodel__AgentModel
+
+#list large vector size
+U-2-Net_vaiq_int8	
+
+#list onnx.conv
+model--squeezebert-uncased-finetuned-squad--SupriyaArun	
+
+#list onnx.LSTM
+sequencer2d_l
+
+#list tensor.reshape
+bat_resnext26ts.ch_in1k	
+
