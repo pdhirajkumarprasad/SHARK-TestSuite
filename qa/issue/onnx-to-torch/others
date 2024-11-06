@@ -321,11 +321,12 @@ model--long-t5-tglobal-base-16384-booksum-V12--pszemraj
 migraphx_bert__bertsquad-12
 
 #list linalg.generic
-coat_lite_mini
-coat_lite_small
-coat_lite_tiny
-nasnetalarge
-pnasnet5large
+jx_nest_base
+jx_nest_small
+jx_nest_tiny
+
+
+
 
 #list exceed
 model--s2t-medium-librispeech-asr--facebook
