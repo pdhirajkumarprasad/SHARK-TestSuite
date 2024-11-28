@@ -351,3 +351,13 @@ sequencer2d_l
 #list tensor.reshape
 bat_resnext26ts.ch_in1k	
 
+#list large vector size
+bat_resnext26ts.ch_in1k
+pit_b_224
+pit_b_distilled_224
+pit_s_224
+pit_s_distilled_224
+pit_ti_224
+pit_ti_distilled_224
+pit_xs_224
+pit_xs_distilled_224
